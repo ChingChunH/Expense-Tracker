@@ -3,17 +3,7 @@
 An expense tracker mobile application using Android Studio in Java.
 
 
-Originally developed as part of a collaborative project.  
-This repository contains the complete project code, with **my individual contributions focused on**:
-  - Implemented the home screen pie chart (using MPAndroidChart) to visualize expenses by category for the current month.  
-  - Built the RecyclerView-based list of expenses, including a total-sum header.  
-  - Created the add/edit form with DatePicker, category Spinner, and input validation.
-  - Wrote the adapter to bind `Expense` model objects to list items and handle item click events.
-  - Defined the `Expense` data class (id, amount, category, date, notes) with getters/setters.
-
-Everything else—database helper, search screen, navigation drawer—was developed by other team members.
-
-➡ [Link to original group project (2022)](https://github.com/joling6027/W22G08_expense-tracking-app)
+Developed as part of a collaborative project.  
 
 ---
 
